@@ -1,0 +1,6 @@
+framework module Pods_DeepLink_DeepLinkUITests {
+  umbrella header "Pods-DeepLink-DeepLinkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
